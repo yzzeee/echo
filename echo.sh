@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "msg" $1
+echo "msg: " $1
